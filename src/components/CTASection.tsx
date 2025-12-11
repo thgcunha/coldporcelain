@@ -42,7 +42,7 @@ const CTASection = () => {
               asChild
             >
               <a
-                href="https://wa.me/5500000000000?text=Olá! Gostaria de solicitar um orçamento para uma peça personalizada."
+                href="https://wa.me/5562996865277?text=Olá! Gostaria de solicitar um orçamento para uma peça personalizada."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2"

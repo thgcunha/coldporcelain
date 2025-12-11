@@ -1,6 +1,6 @@
 import portfolio1 from "@/assets/portfolio-1.jpeg";
-import portfolio2 from "@/assets/portfolio-2.jpg";
-import portfolio3 from "@/assets/portfolio-3.jpg";
+import portfolioHeart from "@/assets/portfolio-heart.jpg";
+import portfolioChristmas from "@/assets/portfolio-christmas.jpg";
 
 const portfolioItems = [
   {
@@ -9,14 +9,14 @@ const portfolioItems = [
     category: "Decoração",
   },
   {
-    image: portfolio2,
-    title: "Flores em Argila",
-    category: "Flores Artísticas",
+    image: portfolioHeart,
+    title: "Potinho Coração Personalizado",
+    category: "Personalização",
   },
   {
-    image: portfolio3,
-    title: "Peça Decorativa",
-    category: "Decoração",
+    image: portfolioChristmas,
+    title: "Bandeja Natalina",
+    category: "Edição Especial",
   },
 ];
 
